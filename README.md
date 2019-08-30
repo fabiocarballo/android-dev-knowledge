@@ -22,5 +22,7 @@ This list will compile some of the best talks/posts I have come across:
 
 [The Silver Bullet that wasn't](https://www.droidcon.com/media-detail?video=352688824) - Elin Nilsson (@hejelinnilsson)
 
+[Developing Themes with Style](https://www.droidcon.com/media-detail?video=352671629) - Nick Butcher & Chris Banes
+
 
 

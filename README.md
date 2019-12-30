@@ -16,6 +16,8 @@ This list will compile some of the best talks/posts I have come across:
 
 [Using Server Driven UI to rapidly iterate on Android and Across Platforms](https://youtu.be/f8j4CqImf0U) - Laura Kelly (@heylaurakelly)
 
+[Lona: Scaling Server Driven UI](https://youtu.be/oxQ6e1VeH4M) - Laura Kelly and Nathanael Silverman
+
 ### Design && Systems
 
 [Styles, Themes, Material Theming, Oh My!](https://youtu.be/B715b_je8GI) - Anita Singh (@anitas3791)
